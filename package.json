@@ -1,0 +1,29 @@
+{
+    "name": "datatables.net-select-se",
+    "version": "1.2.1",
+    "description": "Select for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
+    "files": [
+        "css/select.semanticui.css"
+    ],
+    "main": "./js/select.semanticui.js",
+    "keywords": [
+        "select",
+        "selection",
+        "DataTables",
+        "jQuery",
+        "table",
+        "Semantic UI"
+    ],
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "dependencies": {
+        "jquery": ">=1.7",
+        "datatables.net-se": ">=1.10.13",
+        "datatables.net-select": ">=1.2.1"
+    }
+}
