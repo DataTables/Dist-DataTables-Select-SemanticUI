@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-select-se",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Select for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
     "files": [
         "css/**/*.css"
@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net-se": ">=1.10.13",
-        "datatables.net-select": ">=1.2.1"
+        "datatables.net-se": "^1.10.15",
+        "datatables.net-select": "1.2.3"
     }
 }
