@@ -1,3 +1,4 @@
+@charset "UTF-8";
 table.dataTable tbody > tr.selected,
 table.dataTable tbody > tr > .selected {
   background-color: rgba(0, 0, 0, 0.05);
@@ -5,7 +6,7 @@ table.dataTable tbody > tr > .selected {
 table.dataTable.stripe tbody > tr.odd.selected,
 table.dataTable.stripe tbody > tr.odd > .selected, table.dataTable.display tbody > tr.odd.selected,
 table.dataTable.display tbody > tr.odd > .selected {
-  background-color: rgba(0, 0, 0, 0.07233);
+  background-color: rgba(0, 0, 0, 0.072325);
 }
 table.dataTable.hover tbody > tr.selected:hover,
 table.dataTable.hover tbody > tr > .selected:hover, table.dataTable.display tbody > tr.selected:hover,
@@ -76,7 +77,7 @@ table.dataTable tbody th.select-checkbox:after {
 }
 table.dataTable tbody td.select-checkbox:before,
 table.dataTable tbody th.select-checkbox:before {
-  content: ' ';
+  content: " ";
   margin-top: -3px;
   margin-left: -6px;
   border: 1px solid black;
@@ -84,7 +85,7 @@ table.dataTable tbody th.select-checkbox:before {
 }
 table.dataTable tr.selected td.select-checkbox:after,
 table.dataTable tr.selected th.select-checkbox:after {
-  content: '\2714';
+  content: "✔";
   margin-top: -11px;
   margin-left: -4px;
   text-align: center;
@@ -106,7 +107,7 @@ div.dataTables_wrapper span.select-item {
 
 @media screen and (max-width: 640px) {
   div.dataTables_wrapper span.select-info,
-  div.dataTables_wrapper span.select-item {
+div.dataTables_wrapper span.select-item {
     margin-left: 0;
     display: block;
   }
