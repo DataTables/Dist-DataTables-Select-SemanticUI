@@ -17,9 +17,15 @@ For inclusion of this library using a standard `<script>` tag, rather than using
 npm install datatables.net-select-se
 ```
 
+ES3 Syntax
 ```
 var $ = require( 'jquery' );
 var dt = require( 'datatables.net-select-se' )( window, $ );
+```
+
+ES6 Syntax
+```
+import 'datatables.net-select-se'
 ```
 
 ### bower
