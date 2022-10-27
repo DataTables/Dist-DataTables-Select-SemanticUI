@@ -10,7 +10,8 @@
         "css/select.semanticui.min.css"
     ],
     "types": [
-        "types/select.semanticUI.d.ts"
+        "types/select.semanticUI.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/Select",
     "last-tag": "1.4.0"

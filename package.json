@@ -4,7 +4,7 @@
     "main": "js/select.semanticui.js",
     "module": "js/select.semanticui.mjs",
     "style": "css/select.semanticui.css",
-    "types": "./types/select.semanticUI.d.ts",
+    "types": "./types/types.d.ts",
     "version": "1.4.0",
     "files": [
         "css/**/*.css",
