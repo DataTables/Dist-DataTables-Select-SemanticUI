@@ -4,7 +4,7 @@
     "main": "js/select.semanticui.js",
     "module": "js/select.semanticui.mjs",
     "style": "css/select.semanticui.css",
-    "types": "./types/types.d.ts",
+    "types": "./types/select.semanticui.d.ts",
     "version": "1.6.2",
     "files": [
         "css/**/*.css",
@@ -14,10 +14,10 @@
     ],
     "keywords": [
         "select",
-        "selection",
+ "selection",
         "Semantic",
-        "SemanticUI",
-        "Semantic UI",
+ "SemanticUI",
+ "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
@@ -25,8 +25,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-select": ">=1.4.0",
-        "datatables.net-se": ">=1.12.1",
+        "datatables.net-select": ">=1.6.2",
+        "datatables.net-se": ">=1.13.4",
         "jquery": ">=1.7"
     },
     "moduleType": [
