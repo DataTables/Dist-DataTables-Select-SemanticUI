@@ -5,7 +5,7 @@
     "module": "js/select.semanticui.mjs",
     "style": "css/select.semanticui.css",
     "types": "./types/select.semanticui.d.ts",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,10 +14,10 @@
     ],
     "keywords": [
         "select",
- "selection",
+        "selection",
         "Semantic",
- "SemanticUI",
- "Semantic UI",
+        "SemanticUI",
+        "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
