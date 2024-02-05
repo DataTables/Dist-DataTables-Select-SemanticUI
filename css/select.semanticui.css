@@ -1,5 +1,5 @@
 table.dataTable > tbody > tr > .selected {
-  background-color: rgba(13, 110, 253, 0.9);
+  background-color: rgb(224, 224, 224);
   color: inherit;
 }
 table.dataTable > tbody > tr > .dt-select {
