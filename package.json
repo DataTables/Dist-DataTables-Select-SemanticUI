@@ -40,9 +40,10 @@
     "exports": {
         ".": {
             "types": "./types/select.semanticui.d.ts",
+            "style": "./css/select.semanticui.css",
             "import": "./js/select.semanticui.mjs",
-            "default": "./js/select.semanticui.mjs",
-            "require": "./js/select.semanticui.js"
+            "require": "./js/select.semanticui.js",
+            "default": "./js/select.semanticui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
