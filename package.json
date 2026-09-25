@@ -5,7 +5,7 @@
     "module": "./js/select.semanticui.mjs",
     "style": "./css/select.semanticui.css",
     "types": "./types/select.semanticui.d.ts",
-    "version": "4.1.0",
+    "version": "4.1.1",
     "files": [
         "js",
         "css",
@@ -23,7 +23,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-select": "4.1.0",
+        "datatables.net-select": "4.1.1",
         "datatables.net-se": "^3.1"
     },
     "author": {
